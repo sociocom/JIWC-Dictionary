@@ -14,7 +14,7 @@ JIWC-A contains the tf-idf-like scores realted to all of the seven emotions for 
 JIWC-B contains the strongest emotion or emotions related to each of the word in the dictionary.
 
 3. JIWC-C\
-JIWC-C contains the list of all the words for a particular emotions in a list form.
+JIWC-C contains the list of all the words asssociated to a particular emotion.
 
 
 Total number of words in JIWC dictionary\
