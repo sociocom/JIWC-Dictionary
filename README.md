@@ -18,3 +18,6 @@ JIWC-C contains the list of all the words asssociated to a particular emotion.
 Total number of words in JIWC dictionary\
 version 2019 - 968 words\
 version 2018 - 1691 words
+
+
+Please leave a star if this project is helpful to you!
