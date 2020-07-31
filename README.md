@@ -2,9 +2,7 @@
 JIWC dictionary is used to find the emotions related to words included in a certain text.
 The emotions considered for the dictionary are Sadness(悲しい), Anxiety(不安), Anger(怒り), Diguist(嫌悪感), Trust(信頼感), Surprise(驚き) and Joy(楽しい).
 
-To get information about how the JIWC dictionary is constructed, please follow the following link\
-www.example.com
-
+To get information about how the JIWC dictionary is constructed, please check JIWC-Manual.pdf
 
 The JIWC dictionary is available in the following three formats:
 1. JIWC-A\
