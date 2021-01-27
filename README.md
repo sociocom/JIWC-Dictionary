@@ -20,4 +20,8 @@ version 2019 - 968 words\
 version 2018 - 1691 words
 
 
+New!!
+JIWC-C_2018_2019.csv
+Each emotion category consists of words consistently appearing in that category in both JIWC 2018 and 2019 versions. The total number of lexicons or words in the file is 539.
+
 Please leave a star if this project is helpful to you!
